@@ -1,0 +1,12 @@
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\bin\Debug\net6.0\Logica.Program.deps.json
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\bin\Debug\net6.0\Logica.Program.dll
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\bin\Debug\net6.0\Logica.Program.pdb
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\Logica.Program.csproj.AssemblyReference.cache
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\Logica.Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\Logica.Program.AssemblyInfoInputs.cache
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\Logica.Program.AssemblyInfo.cs
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\Logica.Program.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\Logica.Program.dll
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\refint\Logica.Program.dll
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\Logica.Program.pdb
+C:\Users\Carlos Mencias\source\repos\OOP.Vehiculos.Deber3.1\Logica.Program\obj\Debug\net6.0\ref\Logica.Program.dll

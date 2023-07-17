@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOP.Vehiculos.Deber3.1/1.0.0": {
+        "dependencies": {
+          "Logica.Program": "1.0.0"
+        },
+        "runtime": {
+          "OOP.Vehiculos.Deber3.1.dll": {}
+        }
+      },
+      "Logica.Program/1.0.0": {
+        "runtime": {
+          "Logica.Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP.Vehiculos.Deber3.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logica.Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
